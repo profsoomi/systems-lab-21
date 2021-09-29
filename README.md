@@ -1,3 +1,3 @@
-[example page](https://github.com/profsoomi/systems-lab-21/edit/master/example/new.html)
+[example page](https://profsoomi.github.io/systems-lab-21/example/new.html)
 
 
