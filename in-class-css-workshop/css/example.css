@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap');
+body {
+    font-family: 'Inter', sans-serif;
+}
+.card{
+    border: 1px solid grey;
+    /*border-width: 1px;
+    border-style: solid;
+    border-color: grey;*/
+    width: 200px;
+    height: 200px;
+    border-radius: 15px;
+    padding: 25px;
+    background-color: white;
+    margin:15px;
+}
+/* .card p,.card h1{
+    text-shadow: 0px 1px 2px lightgrey;
+
+} */
+#text-shadow{
+    text-shadow: 0px 1px 2px lightgrey; 
+}
+.parent{
+    width: 100vw;
+    display: flex;
+    align-items:center;
+    justify-content: flex-start;
+}
+#black{
+    background-color: black;
+    color:white;
+}
+#highlight{
+    background-color:lightpink;
+    box-shadow: 0px 1px 2px lightgrey;
+}
